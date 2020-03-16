@@ -5,6 +5,9 @@ Created on Mon Mar 16 15:11:59 2020
 
 @author: nenad
 """
+"""
+Problem description: https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+"""
 
 from collections import Counter
 def odd_occurence(arr):

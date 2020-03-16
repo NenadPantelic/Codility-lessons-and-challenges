@@ -6,7 +6,10 @@ Created on Mon Mar 16 15:17:20 2020
 @author: nenad
 """
 
+"""
+Problem description: https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
 
+"""
 def cyclic_rotation(arr, k):
     copy_arr = arr[:]
     n = len(arr)

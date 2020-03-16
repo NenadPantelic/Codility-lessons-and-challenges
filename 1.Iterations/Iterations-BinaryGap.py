@@ -5,7 +5,9 @@ Created on Mon Mar 16 13:59:42 2020
 
 @author: nenad
 """
-
+"""
+Problem description: https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
+"""
 
 def binary_gap(N):
     binary_rep = bin(N)[2:]
